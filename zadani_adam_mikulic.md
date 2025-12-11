@@ -73,8 +73,7 @@ Vyvinout a otestovat komunikační modul rozšiřující dosah komunikace bezpil
 
 ## 7. STRUKTURA ODEVZDÁNÍ
 
-Počet vyhotovení: 1x zip soubor s prací a kompletními materiály (bez modulu, ten nejde zazipovat).
-
+Počet vyhotovení: 1x zip soubor s prací a kompletními materiály 
 ```tree
 /projekt_mikulic/
   ├── README.md (stručný přehled projektu)
