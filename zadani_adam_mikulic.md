@@ -13,7 +13,7 @@ Komunikační modul pro bezpilotní letoun
 
 ## 2. CÍL PRÁCE
 
-Vyvynout a otestovat komunikační modul rozšiřující dosah komunikace bezpilotního letounu.
+Vyvinout a otestovat komunikační modul rozšiřující dosah komunikace bezpilotního letounu.
 ---
 
 ## 3. FUNKČNÍ POŽADAVKY
