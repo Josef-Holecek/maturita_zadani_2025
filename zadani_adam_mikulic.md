@@ -1,14 +1,19 @@
-# Zadání maturitní práce – Adam Mikulič
+# Zadání maturitní práce
+  
+**Student:** Adam Mikulič  
+**Školní rok:** 2025/2026  
+**Předmět:** Informatika  
+**Vedoucí práce:** Ing. Adam Ferencz
 
-## 1. NÁZEV PROJEKTU
+## 1. NÁZEV PRÁCE
 
-Komunikační relay node pro VTOL UAV
+Komunikační modul (relay node) pro bezpilotní letoun s vertikálním vzletem (VTOL UAV)
 
 ---
 
 ## 2. CÍL PRÁCE
 
-Vyvinout a otestovat komunikační modul („relay node") rozšiřující dosah UAV a umožňující autonomní let na větší vzdálenosti.
+Vyvinout a otestovat komunikační modul („relay node") rozšiřující dosah UAV (bezpilotní letoun) a umožňující autonomní let na větší vzdálenosti.
 
 ---
 
@@ -33,7 +38,7 @@ Vyvinout a otestovat komunikační modul („relay node") rozšiřující dosah 
 
 ### 4.2 Vědecký/odborný článek
 
-- **Rozsah:** 8-15 stran A4, formát dvou sloupců
+- **Rozsah:** 4-15 stran A4, formát dvou sloupců
 - **Obsah:** Analýza komunikačních systémů, návrh řešení, implementace HW/SW, testování
 - **Styl:** Mírně populárně-vědecký
 
@@ -51,14 +56,8 @@ Vyvinout a otestovat komunikační modul („relay node") rozšiřující dosah 
 
 ### 4.5 Prezentace pro obhajobu
 
-- **Rozsah:** 15-20 slidů
-- **Trvání:** 10-15 minut + diskuse
-- **Obsah:** Video z letových testů, demonstrace komunikace
-
-### 4.6 Výkaz činnosti
-
-- Průběžné reporty (R1, R2, R3)
-- Měsíční záznamy o práci včetně odhadovaných hodin
+- **Rozsah:** 5-12 slidů
+- **Délka obhajoby:** 15 minut
 
 ---
 
@@ -66,19 +65,25 @@ Vyvinout a otestovat komunikační modul („relay node") rozšiřující dosah 
 
 - **Funkčnost projektu (40%)** – Funkční relay node, úspěšné testy
 - **Dokumentace (25%)** – Technická dokumentace, článek, poster
-- **Prezentace a obhajoba (25%)** – Kvalita prezentace, odpovědi na dotazy
-- **Výkaz činnosti (10%)** – Pravidelná práce, dokumentace postupu
+- **Prezentace a obhajoba (35%)** – Kvalita prezentace, odpovědi na dotazy
 
 ---
 
-## 6. STRUKTURA ODEVZDÁNÍ
+## 6. TERMÍN ODEVZDÁNÍ
+
+**30. dubna 2025**
+
+---
+
+## 7. STRUKTURA ODEVZDÁNÍ
+
+Počet vyhotovení: 1x zip soubor s prací a kompletními materiály.
 
 ```tree
 /projekt_mikulic/
   ├── README.md (stručný přehled projektu)
   ├── paper.pdf (vědecký článek)
   ├── poster.pdf (poster A3)
-  ├── vykaz_cinnosti.xlsx (výkaz průběžné činnosti)
   ├── dokumentace/
   │   └── technicka_dokumentace.pdf nebo .md
   ├── prezentace/

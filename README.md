@@ -58,7 +58,7 @@ Cílem je vytvořit **prakticky použitelný projekt**, který má skutečnou ho
 
 ### 4.2 Vědecký/odborný článek (paper)
 
-**Rozsah:** 8-15 stran (formát A4)  
+**Rozsah:** 4-15 stran (formát A4)  
 **Jazyk:** Čeština (případně angličtina po dohodě)
 
 **Obsah článku:**
@@ -121,8 +121,8 @@ Cílem je vytvořit **prakticky použitelný projekt**, který má skutečnou ho
 
 ### 4.5 Prezentace pro obhajobu
 
-**Rozsah:** Minimálně 15-20 slidů (podle složitosti projektu)  
-**Trvání prezentace:** Cca 10-15 minut + diskuse
+**Rozsah:** Minimálně 5-12 slidů (podle složitosti projektu)  
+**Trvání prezentace:** Cca 10 minut + 5 min diskuse
 
 **Struktura prezentace:**
 
